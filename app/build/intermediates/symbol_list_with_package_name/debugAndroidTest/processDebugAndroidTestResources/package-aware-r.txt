@@ -1,3 +1,0 @@
-com.example.havadurumu.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
