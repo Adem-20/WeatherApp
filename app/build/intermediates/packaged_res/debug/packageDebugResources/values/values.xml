@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="cultured">#F5F5F8</color>
+    <color name="purple">#800080</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Hava Durumu</string>
+    <style name="Base.Theme.HavaDurumu" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/cultured</item>
+    </style>
+    <style name="Theme.HavaDurumu" parent="Base.Theme.HavaDurumu"/>
+</resources>
