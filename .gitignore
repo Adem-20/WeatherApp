@@ -1,0 +1,12 @@
+# Android build klasörleri
+/build
+/app/build
+/.gradle
+
+# Android Studio dosyaları
+.idea
+local.properties
+
+# Diğer
+*.iml
+.DS_Store
