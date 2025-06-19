@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string name="konum_aray_n">Konum Arayın..</string>
+    <string name="wind">Wind</string>
+    <string name="nem">Nem</string>
+    <string name="r_zgar">Rüzgar</string>
+    <string name="ya_mur">Yağmur</string>
+</resources>
